@@ -3,7 +3,7 @@ A Tetris clone made in Unity
 
 Download the zip file and extract to play!
 
-Version 1.0 - Initial Release
+# Version 1.0 - Initial Release
 
   # Known Bugs
     -Level doesn't always properly increment
